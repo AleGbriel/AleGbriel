@@ -11,9 +11,9 @@
     <div class="section">
       <h2>Características Principales</h2>
       <ul>
-        <li>soy lol </li>
-        <li>:v </li>
-        <li>:v </li>
+        <li>ARDUINO </li>
+        <li>C++ </li>
+        <li>HTML </li>
       </ul>
     </div>
     <div class="section">
