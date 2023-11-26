@@ -11,9 +11,9 @@
     <div class="section">
       <h2>Características Principales</h2>
       <ul>
-        <li>Característica 1</li>
-        <li>Característica 2</li>
-        <li>Característica 3</li>
+        <li>soy lol 1</li>
+        <li>:v 2</li>
+        <li>:v 3</li>
       </ul>
     </div>
     <div class="section">
