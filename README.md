@@ -5,7 +5,7 @@
     <div class="title">🌟🅗🅞🅛🅐 ​ 🅤🅝 ​ 🅖🅤🅢🅣🅞  🌟</div>
     <div class="section">
       <h2>🚀 Introducción 🚀</h2>
-      <p>¡Bienvenidos a mi presentación! En esta presentación...</p>
+      <p>¡Bienvenidos a mi github! En esta presentación les voy a contar un poco de mi</p>
     </div>
     <div class="section">
       <h2>💡 Características Principales 💡</h2>
@@ -16,7 +16,7 @@
       </ul>
     </div>
     <div class="section">
-      <h2>🎯 Por Qué es Importante 🎯</h2>
+      <h2>🎯 𝓞𝓑𝓙𝓔𝓣𝓘𝓥𝓞𝓢 🎯</h2>
       <p>Este proyecto es importante porque...</p>
     </div>
     <div class="section">
